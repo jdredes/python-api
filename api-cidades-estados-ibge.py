@@ -1,6 +1,4 @@
-import chunk
 import pandas as pd
-import requests
 import sys
 
 # Import Database Config
